@@ -1,4 +1,4 @@
-# OAMK-Natiivi-Tavoitesyke
+# OAMK-Natiivi-ScaffoldNavigation
 
 Mobiiliohjelmointi natiiviteknologioilla IN00CT07-3009
 
